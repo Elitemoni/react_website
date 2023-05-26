@@ -1,0 +1,5 @@
+https://github.com/gitname/react-gh-pages
+youtube.com/watch?v=7wzuievFjrk
+
+note:
+deploy to gh-pages branch
